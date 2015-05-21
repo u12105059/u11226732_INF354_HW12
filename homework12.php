@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Welcome!";
+echo "INF 354 Homework 12";
 echo "Refiloe Chaka 11226732";
 ?>
 
